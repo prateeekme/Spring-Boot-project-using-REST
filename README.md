@@ -1,13 +1,13 @@
 # Introduction
-A Simple Spring Boot Project using REST API. I have use static database by hardcoding it in the Service Layer of the Project.
+A Simple Spring Boot Project using REST API. I have use static database by hardcoding it in the Service Layer of the Project. <br />
 Using this project we are able to use PUT, POST, GET, DELETE operations. 
 
 # Software Used
-Spring Tool Suite 4 | Version 4.13.1
-Postman App | Version 9.14.0
+Spring Tool Suite 4 | Version 4.13.1 <br />
+Postman App | Version 9.14.0 
 
 # Resources
-Java Spring Boot Wiki : https://spring.io/projects/spring-boot
+Java Spring Boot Wiki : https://spring.io/projects/spring-boot <br />
 Postman App : https://learning.postman.com/docs/getting-started/introduction/
 
 # Note
